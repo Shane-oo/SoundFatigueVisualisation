@@ -34,8 +34,7 @@ If new data is being fed into the API (i.e. The data is being updated in real ti
 
 Below the Graph displayed is what room the worker is currently in.
 
-![Image 1: Main Line Chart Zoomed In WIth Current Room Displayed](<../.gitbook/assets/Screen Shot 2021-10-17 at 11.19.02 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318484-aa67d137-8317-4044-9bd7-dbd7348ca068.png)
 
 
 #### Decibel Occurrences
@@ -81,7 +80,7 @@ Going down the horizontal bar charts, the different values of dB increase and th
 
 On hover of the bar, the amount of seconds the worker has been exposed to for that dB range is displayed.
 
-![Image 2: Total Dosage Meter Around 80%](<../.gitbook/assets/Screen Shot 2021-10-18 at 12.27.29 am.png>)
+![image](https://user-images.githubusercontent.com/68227178/195318529-1f288668-e50b-44b8-ad42-1b0d778748c3.png)
+![image](https://user-images.githubusercontent.com/68227178/195318551-97c0d236-58f3-4f8f-baaf-e24f32fbfc13.png)
 
-![Image 3: Dosimeter Chart](<../.gitbook/assets/Screen Shot 2021-10-18 at 12.27.40 am.png>)
-
+On hover of the bar, the amount of seconds the worker has been exposed to for that dB range is displayed.
