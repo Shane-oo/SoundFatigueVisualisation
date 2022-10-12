@@ -42,8 +42,7 @@ The Graph has 1 solid line indicating the Average dB reading from all the data. 
 
 If new data is being fed into the API (i.e. The data is being updated in real time) the Graph will be continuously updating.&#x20;
 
-![Image 2: Line Graph ](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.09.43 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318140-2fde8fdd-fa0f-425f-b3bf-fdf085921d21.png)
 #### Decibel Occurrences
 
 A continuously updating pie chart indicating how many decibel readings were within a certain range
@@ -53,20 +52,17 @@ A continuously updating pie chart indicating how many decibel readings were with
 * Threatening: 90-112 dB
 * Unsafe: >112 dB
 
-![Image 3: Pie chart displaying the decibel occurrences count](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.21.27 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318180-d811d251-ff4d-4282-9d9b-7424746d3961.png)
 The legend is clickable so that the pie chart can display and compare the different ranges.
 
-![Image 4: Pie Chart with Safe unselected](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.23.04 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318232-d7cee86e-decd-4382-a98f-68c1dc524988.png)
 #### Average Gauge
 
 A continuously updating gauge is used to display the average decibel reading in the room, it has the same range as the pie chart indicating green-yellow-orange-red for Safe, Dangerous, Threatening and UnSafe.&#x20;
 
 When hovering on the indicator, it will display the exact value of the average value for the user.
 
-![Image 5: Average Gauge in the Safe Zone ](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.33.10 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318262-c7d7f927-33fb-48db-a52c-d64844ed28ad.png)
 #### Max Gauge
 
 Next to the Average Gauge is the Max Gauge that indicates the Max decibel reading in the room across the data. Same gauge display as Image 5.
@@ -81,8 +77,7 @@ On hover of elements, the values are displayed. Hovering the bar will display th
 
 If no data exists yet for that hour no bar will be displayed until data for that hour is in the API. It will then continuously change until that hour is up and then will continue for the next Bar.
 
-![Image 6: Vertical Bullet Chart for Room](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.50.14 pm.png>)
-
+![image](https://user-images.githubusercontent.com/68227178/195318300-d91f4637-994a-4262-a7d0-e158bfed05ec.png)
 #### Pitch Line Chart
 
 Lastly featured is a continuously updating line graph of the pitch readings in the room. On the y-axis is the pitch value and the x-axis is the timestamp for said value.
