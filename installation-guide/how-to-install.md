@@ -42,7 +42,7 @@ The database is now ready to receive and serve sound data.
 
 The easiest way to access the database is to install the [DB Browser for SQLite](https://sqlitebrowser.org).&#x20;
 
-![](../.gitbook/assets/image.png)
+![image](https://user-images.githubusercontent.com/68227178/195305146-83d51f8c-fa60-4d1a-94da-a8c5b92e89d6.png)
 
 The database is stored in the base directory with the file name `backend.db`
 
