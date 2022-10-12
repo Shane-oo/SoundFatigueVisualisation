@@ -1,8 +1,7 @@
 ---
 description: Deriving meaning from sound.
-Group Project: CITS3200 UWA
 ---
-
+### Group Project: CITS3200 UWA
 # What is SoundFatigueVisualisation?
 
 Sound Fatigue Visualisation is a web app which allows users to gather meaningful data regarding the sound readings of an environment, in this case the sound readings on a ship.
