@@ -30,7 +30,7 @@ If the date selected is not the current date then all data, the 24 hours for tha
 
 If the date is the current date then the data shown will be up to what is coming from the simulation and the API
 
-![Image 1: Selecting a Date to Display](<../.gitbook/assets/Screen Shot 2021-10-17 at 10.01.34 pm.png>)
+![image](https://user-images.githubusercontent.com/68227178/195318077-19446798-9cd8-4683-bca9-bb957714561a.png)
 
 #### Main Line Graph
 
