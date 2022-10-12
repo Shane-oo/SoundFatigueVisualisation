@@ -1,5 +1,6 @@
 ---
 description: Deriving meaning from sound.
+Group Project: CITS3200 UWA
 ---
 
 # What is SoundFatigueVisualisation?
