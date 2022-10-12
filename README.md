@@ -32,7 +32,7 @@ The available data to the users is as follows:
 
 See the quick video and guides below on how to get started with Sound Fatigue Visualisation
 
-![Quick overview of system functionality](<.gitbook/assets/Screen Recording 2021-10-20 at 1.18.41 pm.gif>)
+![image](https://user-images.githubusercontent.com/68227178/195305318-2ad93406-10af-487c-ac69-436ffdeaab3f.png)
 
 ### Guides: Jump right in
 
